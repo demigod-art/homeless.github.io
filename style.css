@@ -1,0 +1,44 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-color: red;
+}
+
+img{
+	max-width: 100%;
+	max-height: auto;
+}
+
+h1 {
+	font-size: 30px;
+	color: white;
+	background-color: green;
+	text-align: center;
+}
+
+.heading{
+	padding: 20px;
+	text-decoration: bold;
+	color: white;
+	font-family: "Lucida Console", "Courier New", Monospace;
+	background-color: green;
+	text-align: center;
+}
