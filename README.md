@@ -1,3 +1,3 @@
-Testing wether the page will work
-
-I did not know why the page is not working, but if you please let me know
+This is my landing page from ALX project, though I didn't know why my image is not displaying live!!
+Here is the link to view the site
+https://demigod-art.github.io/homeless.github.io/
